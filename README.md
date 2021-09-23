@@ -1,2 +1,2 @@
 # cloudTest
-cloud Test
+cloud Testing
